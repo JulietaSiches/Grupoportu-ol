@@ -1,3 +1,1 @@
 Descrição da operação soma:
-
-Modificacao 1
