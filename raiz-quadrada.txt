@@ -1,0 +1,1 @@
+# Este é o arquivo responsável pela operação de raíz quadrada
