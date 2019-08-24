@@ -1,1 +1,2 @@
-# Este é arquivo responsável pelo subtração de dois numeros. 
+# Este é arquivo responsável pelo subtração de dois numeros.git
+#ok conflito
